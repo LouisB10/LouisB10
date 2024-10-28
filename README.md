@@ -6,7 +6,7 @@
   </p>
 
 <br>
-<p><img align="right" src="https://github.com/LouisB10/LouisB10/blob/main/animation_500_kxa883sd.gif" alt="LouisB10" /></p>
+<p><img align="right" src="https://github.com/LouisB10/LouisB10/blob/master/animation_500_kxa883sd.gif" alt="LouisB10" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
