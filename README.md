@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/louis-bousquet-7077aa281/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="louis bousquet" height="30" width="40" /></a>
- <a href="https://twitter.com/louisbsq" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="louis bousquet" height="30" width="40" /></a>
 </p>
 
 <br>
