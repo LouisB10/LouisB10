@@ -1,7 +1,7 @@
 <h1 align="center">Louis Bousquet</h1>
 <h3 align="center">Student at Epitech - Montpellier🌟.</h3>
 <br>
-<p><img align="right" src="https://github.com/LouisB10/LouisB10/blob/master/animation_500_kxa883sd.gif" alt="LouisB10" /></p>
+<p><img align="right" height="150" src="https://camp2.rectangle.zone/subwikifiles/wc2/images/1/18/LuigiDance.gif"  /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
